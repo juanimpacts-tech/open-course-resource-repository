@@ -33,7 +33,7 @@ Professor Argüelles Ortiz
 
 ## Accompanying Teaching Resource
 
-[Introduction to Using AI for BMGT 240](../materials/intro-to-using-ai-bmgt240.pdf)
+[Introduction to Using AI for BMGT 240]
 
 The guide outlines three expectations:
 
