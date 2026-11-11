@@ -8,11 +8,11 @@ AI Teaching Commons helps educators integrate AI into learning environments with
 
 ## Explore the Resources
 
-- **Student Guides:** Practical guidance for using AI responsibly
-- **Faculty Guides:** Strategies for teaching and assessment
-- **Prompt Library:** Adaptable prompts for educational tasks
-- **Assignments:** Classroom activities exploring AI capabilities and limitations
-- **Responsible AI:** Resources on ethics, transparency, and verification
+- [Student Guides](student-guides/using-ai-for-brainstorming.md)
+- [Faculty Guides](faculty-guides/designing-ai-aware-assignments.md)
+- [Prompt Library](prompt-library/feedback-prompts.md)
+- [Classroom Assignments](assignments/ai-output-critique.md)
+- [Responsible AI](responsible-ai/verification-checklist.md)
 
 ## Who Is This For?
 
